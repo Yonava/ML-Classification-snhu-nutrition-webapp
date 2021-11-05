@@ -1,0 +1,1 @@
+load webpage by running command "node server.js" from directory
